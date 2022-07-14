@@ -1,6 +1,6 @@
-import logo from '../../assets/img/logo.svg'
+import logo from '../../assets/img/logo.svg';
 
-import './styles.css'
+import './styles.css';
 
 const Header = () => {
   return (
@@ -17,4 +17,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Header;
