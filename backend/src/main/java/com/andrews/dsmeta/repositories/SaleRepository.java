@@ -1,0 +1,9 @@
+package com.andrews.dsmeta.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.andrews.dsmeta.entities.Sale;
+
+public interface SaleRepository extends JpaRepository<Sale, Long> {
+
+}
